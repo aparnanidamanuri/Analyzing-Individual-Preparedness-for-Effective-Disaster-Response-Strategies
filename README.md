@@ -7,6 +7,12 @@ This repository explores individual preparedness levels and their relationship t
 2. Develop machine learning models to predict preparedness levels based on various socio-demographic factors.
 3. Utilize the models' insights to suggest effective disaster response strategies tailored to different preparedness levels.
 
+## Research Questions
+1. How do demographic factors correlate with preparedness levels in disaster-prone regions?
+2. What is the distribution of preparedness levels across different states, and how can it be effectively quantified?
+3. To what extent do awareness, perception and past experiences influence preparedness levels?
+4. How can insights from studying individual preparedness and response behaviors contribute to more effective disaster management strategies?
+
 ## Methodology
 
 ### 1. Data Acquisition and Preprocessing:
