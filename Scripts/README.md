@@ -1,0 +1,1 @@
+This folder currently contains a single Jupyter Notebook file (AIP.ipynb) that serves as the main script for the project "Analyzing Individual Preparedness for Effective Disaster Response Strategies". This notebook encompasses various tasks related to data analysis, feature engineering, machine learning model training, and evaluation.
