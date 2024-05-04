@@ -39,3 +39,13 @@ The evaluation helps assess the models' accuracy and identify potential areas fo
 
 The project will document the chosen features, the machine learning models' performance, and key insights gained from the analysis.
 Visualizations like charts and graphs are included to illustrate the findings.
+
+## Acknowledgments
+
+- FEMA for providing the dataset.
+- Contributors who have participated in data collection and processing.
+- The community for their continuous support and feedback.
+
+## Contact
+
+For any queries regarding the project, please open an issue in the repository or contact the repository owner directly.
