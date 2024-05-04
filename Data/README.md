@@ -4,6 +4,12 @@
 
 This project utilizes data from the National Household Survey conducted by the Federal Emergency Management Agency (FEMA). The survey aims to gather comprehensive information on individual preparedness in the event of various disasters.
 
+## Dataset Citation
+
+Data Source: FEMA National Household Survey (NHS) 2023
+https://www.fema.gov/about/openfema/data-sets/national-household-survey
+The FEMA National Household Survey (NHS) is a comprehensive survey conducted by Federal Emergency Management Agency to assess disaster preparedness, response, and recovery efforts at the household level for the year 2023.
+
 ### Key Features of the Dataset
 
 - **Demographics**: Age, sex, education, ethnicity, race, and language.
