@@ -52,6 +52,19 @@ The evaluation helps assess the models' accuracy and identify potential areas fo
 The project will document the chosen features, the machine learning models' performance, and key insights gained from the analysis.
 Visualizations like charts and graphs are included to illustrate the findings.
 
+## Limitations
+1. Data Scope:
+* One Year of Data: Utilized one year of survey data from FEMA.
+* Potential for Limited Trends: Longer time frames could capture variations in preparedness behavior over time.
+2. Model Performance:
+* Training-Testing Accuracy Gap: Indicates potential overfitting.
+* Class Imbalance: most models performed lower for individuals classified as "Medium Preparedness" (Class 1)
+3. Other Potential Limitations:
+* Self-Reported Data: Susceptible to recall bias or social desirability bias.
+* Survey Design: Structured Response options may influence responses.
+* Focus on Individual Level: Broader societal and community factors may be overlooked.
+
+
 ## Acknowledgments
 
 - FEMA for providing the dataset.
